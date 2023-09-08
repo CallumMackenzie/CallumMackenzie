@@ -11,4 +11,4 @@ I am interested in ...
 - Bioinformatics
 - ... the application of computer science in general
 
-I’m currently studying computer science at the University of British Columbia
+I am currently in a Computer Science and Statistics combined major at the University of British Columbia.
